@@ -1,5 +1,5 @@
 ## VOICE BASED VIRTUAL ASSISTANT USING NLP AND ML
-Project by [Syed Luqmaan](httpswww.youtube.comchannelUCO8as7whRck3yfbaqVp2-5w)
+Project by [Syed Luqmaan](https://www.youtube.com/channel/UCO8as7whRck3yfbaqVp2-5w)
 
 ## Contents
 - [Objective](httpsgithub.comLonecarcassPortfolioeditmainREADME.md#problem-statement)
